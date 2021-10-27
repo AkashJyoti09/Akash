@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# River Brahmaputra
 
-You can use the [editor on GitHub](https://github.com/AkashJyoti09/Akash/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Brahmaputra](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Brahmaputra_River_Homeward_bound.jpg/1280px-Brahmaputra_River_Homeward_bound.jpg)
 
-### Markdown
+The Brahmaputra, also known as the Yarlung Tsangpo in Tibet, China, the Siang/Dihang River in Arunachal Pradesh, and Luit, Dilao in Assam, is a trans-boundary river which flows through Tibet, India, and Bangladesh.It is the 9th largest river in the world by discharge, and the 15th longest.The river drains the Himalayan east of the Indo-Nepal border, south-central portion of the Tibetan plateau above the Ganga basin, south-eastern portion of Tibet, the Patkai-Bum hills, the northern slopes of the Meghalaya hills, the Assam plains, and the northern portion of Bangladesh. The basin, especially south of Tibet, is characterized by high levels of rainfall. Kangchenjunga (8,586 m) is the only peak above 8,000 m, hence is the highest point within the Brahmaputra basin.he Brahmaputra's upper course was long unknown, and its identity with the Yarlung Tsangpo was only established by exploration in 1884–86. This river is often called the Tsangpo-Brahmaputra river.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The lower reaches are sacred to Hindus. While most rivers on the Indian subcontinent have female names, this river has a rare male name. Brahmaputra means "son of Brahma" in Sanskrit.
 
-```markdown
-Syntax highlighted code block
+Table:
 
-# Header 1
-## Header 2
-### Header 3
+| passing countries | length of the river | various names at different region |
+|:-------------------:|:-------------------:|:---------------------------------:|
+| Tibet, China, india, bangladesh| 3848 km       | Siang, Dihang, Luit, Dilao |   
+## Similar rivers in india
 
-- Bulleted
-- List
+1. Ganga
+2. Narmada
+3. Sabarmati
 
-1. Numbered
-2. List
+[References wiki][1]
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkashJyoti09/Akash/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1]: https://en.wikipedia.org/wiki/Brahmaputra_River
